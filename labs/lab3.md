@@ -20,7 +20,7 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 
 3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
 
-![Terminal](../images/q3.png)
+![Terminal](../images/question3lab3.png)
 
 3.3 How much disk space will the package utilize after installation?
 
@@ -28,10 +28,16 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
  
 
 ## Question 2
-![Question2](../images/questionnum2.png)
-  * Q3. present working directory is Themes
+
+![Question2](../images/question2lab3.png)
+
 ## Question 3
 
+![Question3](../images/q3lab3.png)
+
 ## Question 4
+
+![Question4](../images/question4lab3.png)
+![Question4](../images/question4l3.png)
 
 ## Question 5
