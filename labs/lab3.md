@@ -41,3 +41,7 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 ![Question4](../images/question4l3.png)
 
 ## Question 5
+
+![Question5](../images/q5lab3.png)
+![Question5](../images/q5la3.png)
+![Question5](../images/q5l3.png)
