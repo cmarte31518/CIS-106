@@ -27,7 +27,7 @@ For this project since you will be learning how to setup NextCloud Locally all y
 - Linux distro (Ubuntu 20.10) Installed on any machine or Raspberry Pi
 - Know your Super User password 
 - Apache installed on system 
-  
+- New microSD card (Optional)
 ## Installing Apache
 
 For this part you need to run only two commands
@@ -42,7 +42,7 @@ For this step it is crucial to have your terminal open to run the following comm
   - Run the command `snap changes nextcloud` to confirm the installation 
 
 ![Image1](../FinalProject/Images/NextCloud2.png)
-![Image2](../FinalProject/Images/Nextcloudinstall.png)
+![Image](../FinalProject/Images/Nextcloudsnap.png)
 
 ## Configuring and setting up Admin Account
 
@@ -76,3 +76,9 @@ In this section you will need:
 - I had a major issue with apache because at first when I installed NextCloud and created my credentials and opened the appropriate ports when I either typed my IP Address pr localhost on firefox the page was not loading and I fixed this by stopping the apache service `sudo service apache2 stop`
 
 ## Worked Cited
+
+“NextCloud | Install and Setup on Ubuntu Server.” YouTube, YouTube, 29    Mar. 2020, www.youtube.com/watch?v=qh1w9tKtGv0. 
+
+Nextcloud. “For Home Users.” Nextcloud, nextcloud.com/athome/. 
+
+“Using Nextcloud for Privacy - Your Own Cloud Storage, Shared Contacts and Calendar.” YouTube, YouTube, 13 Aug. 2020, www.youtube.com/watch?v=kmYtL60qcWM. 
