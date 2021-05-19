@@ -1,6 +1,7 @@
 *Crismely Marte CIS 160*
 
 ## Lecture 4 Managing Files and Directories
+--------------------------------------------
 
 ### Making directories and creating empty files
 
