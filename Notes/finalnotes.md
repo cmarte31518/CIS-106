@@ -1,32 +1,9 @@
 **Crismely Marte Final Notes**
 
-##Table of Content
-- [## Lecture 2 Installing Ubuntu, Virtualization, and the Raspberry PI](#-lecture-2-installing-ubuntu-virtualization-and-the-raspberry-pi)
-  - [The Basics of Virtualization](#the-basics-of-virtualization)
-    - [Hypervisor](#hypervisor)
-    - [Advantages of Virtualization](#advantages-of-virtualization)
-  - [Using Virtual Box](#using-virtual-box)
-  - [Installing Ubuntu Virtual Machine](#installing-ubuntu-virtual-machine)
-  - [Installing Ubuntu On Raspberry Pi](#installing-ubuntu-on-raspberry-pi)
-  - [What is a Raspberry Pi](#what-is-a-raspberry-pi)
-    - [What it is composed of](#what-it-is-composed-of)
-    - [The main components you need to have a working Raspberry Pi](#the-main-components-you-need-to-have-a-working-raspberry-pi)
-- [## Lecture 3 Desktop Environments, Shell, Managing Software, The linux Filesystem](#-lecture-3-desktop-environments-shell-managing-software-the-linux-filesystem)
-- [!Image11](#)
-- [## Lecture 4 Managing Files and Directories](#-lecture-4-managing-files-and-directories)
-  - [Making directories and creating empty files](#making-directories-and-creating-empty-files)
-  - [Moving and coping files and directories](#moving-and-coping-files-and-directories)
-  - [Wildcards](#wildcards)
-  - [Brace Expansion](#brace-expansion)
-- [Lecture 5 Handling Text files](#lecture-5-handling-text-files)
-  - [Basics of Nano](#basics-of-nano)
-  - [Basics of Vim](#basics-of-vim)
-- [Lecture 6 Managing Data, File Compression & File Permission](#lecture-6-managing-data-file-compression--file-permission)
-  - [Managing Data](#managing-data)
-  - [File Compression](#file-compression)
-  - [File Permission](#file-permission)
+## Table of Content
 
 
+------------------------------------------------------------------------
 
 ## Lecture 2 Installing Ubuntu, Virtualization, and the Raspberry PI ##
 -----------------------------------------------------------------------
